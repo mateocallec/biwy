@@ -13,6 +13,6 @@ echo "Upgrading pip to latest version..."
 python3 -m pip install --upgrade pip
 
 echo "Installing required Python packages..."
-python3 -m pip install requests numpy statsmodels
+sudo apt install -y python3-requests python3-numpy python3-statsmodels
 
 echo "Setup complete."
