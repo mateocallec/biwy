@@ -29,7 +29,7 @@ See the [LICENSE](LICENSE) file for details.
 
    ```bash
    git clone https://github.com/mateocallec/biwy.git
-   cd BIWY
+   cd biwy
    ```
 
 2. Run the setup script to install dependencies:
