@@ -35,6 +35,7 @@ See the [LICENSE](LICENSE) file for details.
 2. Run the setup script to install dependencies:
 
    ```bash
+   sudo chmod +x ./setup.sh
    ./setup.sh
    ```
 
