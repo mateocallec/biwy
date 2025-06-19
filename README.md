@@ -1,6 +1,6 @@
-![Le coeur de l'armée américaine, le Pentagone (qui commence à ressembler un peu à l'Etoile Noire, non ?) - Pablo Martinez Monsivais/AP/SIPA](https://github.com/mateocallec/biwy/blob/main/docs/pentagone.jpg?raw=true)
-
 **Please read the DISCLAIMER.md before using this software. It outlines that the author disclaims all liability and prohibits any illegal use or actions against NATO and France’s interests.**
+
+![Le coeur de l'armée américaine, le Pentagone (qui commence à ressembler un peu à l'Etoile Noire, non ?) - Pablo Martinez Monsivais/AP/SIPA](https://github.com/mateocallec/biwy/blob/main/docs/pentagone.jpg?raw=true)
 
 # BIWY - Big Brother Is Being Watched by You!
 
