@@ -1,0 +1,5 @@
+# Ignore output files
+
+pizzerias_seen.txt
+pizza_stats.csv
+logs.txt
