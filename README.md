@@ -35,7 +35,7 @@ See the [LICENSE](LICENSE) file for details.
 2. Run the setup script to install dependencies:
 
    ```bash
-   ./setup_environment.sh
+   ./setup.sh
    ```
 
 3. Make sure your main script (e.g., `biwy.py`) is executable:
