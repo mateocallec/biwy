@@ -6,6 +6,12 @@
 
 BIWY is a satirical Python-based monitoring tool created for fun and educational purposes. It humorously aims to detect potential geopolitical crises by analyzing unusual spikes in pizza orders near the Pentagon area. The project leverages OpenStreetMap data via the Overpass API and uses time series anomaly detection to identify significant deviations in pizza order patterns.
 
+## Geopolitical events detected by Biwy since its launch
+
+| Date (UTC) | Event |
+|:-----------|:------|
+| 2025‑06‑22 | US attack on three Iranian nuclear sites |
+
 ---
 
 ## License
